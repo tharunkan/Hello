@@ -1,0 +1,16 @@
+C:\Azure\Hello\bin\Debug\net5.0\Hello.exe
+C:\Azure\Hello\bin\Debug\net5.0\Hello.deps.json
+C:\Azure\Hello\bin\Debug\net5.0\Hello.runtimeconfig.json
+C:\Azure\Hello\bin\Debug\net5.0\Hello.runtimeconfig.dev.json
+C:\Azure\Hello\bin\Debug\net5.0\Hello.dll
+C:\Azure\Hello\bin\Debug\net5.0\ref\Hello.dll
+C:\Azure\Hello\bin\Debug\net5.0\Hello.pdb
+C:\Azure\Hello\obj\Debug\net5.0\Hello.csprojAssemblyReference.cache
+C:\Azure\Hello\obj\Debug\net5.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azure\Hello\obj\Debug\net5.0\Hello.AssemblyInfoInputs.cache
+C:\Azure\Hello\obj\Debug\net5.0\Hello.AssemblyInfo.cs
+C:\Azure\Hello\obj\Debug\net5.0\Hello.csproj.CoreCompileInputs.cache
+C:\Azure\Hello\obj\Debug\net5.0\Hello.dll
+C:\Azure\Hello\obj\Debug\net5.0\ref\Hello.dll
+C:\Azure\Hello\obj\Debug\net5.0\Hello.pdb
+C:\Azure\Hello\obj\Debug\net5.0\Hello.genruntimeconfig.cache
